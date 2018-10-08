@@ -1,21 +1,29 @@
+/* Navbar */
+
+
+
 /* About Me */
-.body img {
+
+.about {
     margin: 15px;
 }
+    #about-img {
 
-.body p {
-    margin: 15px;
-}
+    }
 
+    #about-p {
+        float: right;
+    }
 
 /* Portfolio */
-.portfolio {
-    margin: 15px;
-    width: 100%;
 
+.card {
+    margin: 15px;
+    float: left;
 }
 
 /* Contact */
+
 form {
     margin: 15px;
 }
@@ -36,3 +44,4 @@ form {
         margin-top: 15px;
     }
 }
+
