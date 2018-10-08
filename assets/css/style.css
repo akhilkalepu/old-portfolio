@@ -1,0 +1,38 @@
+/* About Me */
+.body img {
+    margin: 15px;
+}
+
+.body p {
+    margin: 15px;
+}
+
+
+/* Portfolio */
+.portfolio {
+    margin: 15px;
+    width: 100%;
+
+}
+
+/* Contact */
+form {
+    margin: 15px;
+}
+
+    .form-group {
+        max-width: 600px;
+    }
+
+    .emailHelp {
+        margin: 15px;
+    }
+
+
+/* Mobile */
+
+@media screen and (max-width: 992px) {
+    body p {
+        margin-top: 15px;
+    }
+}
